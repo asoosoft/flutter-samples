@@ -13,7 +13,7 @@
 
 5. flutter_localserver_webview와 flutter_virtualdomain_webview 중 원하는 예제를 VisualStudioCode에서 실행합니다.![image](https://github.com/user-attachments/assets/03c7ba9f-2edb-40f4-b820-19cc62ce67dd)
  - flutter-samples/flutter_localserver_webview([로컬 서버 배포 가이드로 이동](https://app.gitbook.com/o/-LBZXDVJlvS84TyZbgov/s/a1djbpbzXMGAimyJz5v8/08.-mobile-app/02.-flutter-hybrid/02.-flutter/a.-android-ios))
- - flutter-samples/flutter_virtualdomain_webview([가상 도메인 배포](https://app.gitbook.com/o/-LBZXDVJlvS84TyZbgov/s/a1djbpbzXMGAimyJz5v8/08.-mobile-app/02.-flutter-hybrid/02.-flutter/b.-android))
+ - flutter-samples/flutter_virtualdomain_webview([가상 도메인 배포 가이드로 이동](https://app.gitbook.com/o/-LBZXDVJlvS84TyZbgov/s/a1djbpbzXMGAimyJz5v8/08.-mobile-app/02.-flutter-hybrid/02.-flutter/b.-android))
 
 
 7. flutter프로젝트 폴더에서 assets/www 폴더를 생성하고 스파이더젠으로 빌드한 "/bin" 내부 파일을 폴더에 붙여넣습니다.![image](https://github.com/user-attachments/assets/533022b5-7f58-477d-8ca7-a9f81c0a958d)
